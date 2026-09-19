@@ -32,3 +32,27 @@ All reconnaissance activities in this report were performed only against systems
 **Okoye Amara Iliona**
 Cybersecurity Professional, Batch B083 — Networkwalks
 [LinkedIn](https://www.linkedin.com/in/okoye-amara-bb38033a5)
+## Evidence
+
+
+![WHOIS lookup](IMG-20260919-WA0004.jpg)
+
+
+
+
+![WhatWeb/Nslookup/Curl](IMG-20260919-WA0017.jpg)
+
+
+
+
+![Wafw00f/DNSRecon](IMG-20260919-WA0016.jpg)
+
+
+
+
+![Zenmap scan](IMG-20260919-WA0026.jpg)
+
+
+
+
+![Topology](IMG-20260919-WA0027.jpg)
